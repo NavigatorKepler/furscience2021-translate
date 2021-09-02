@@ -37,11 +37,16 @@ Consent (Declaration of participant)	签署同意书
 I have read and understand the terms of the present consent form. I have made this decision based on the information I have received about it, and I accept its stipulations. I understand that by completing and submitting this electronic survey I am giving my consent to participate in this study according to the terms outlined above.	我已经阅读并理解了已给出的内容。基于我了解的信息，我决定接受这些条款。我知晓完成并提交这份问卷意味着同意参与基于以上条款的这项研究。我知晓同意参与这项研究，不意味着放弃我的权利或减免研究员或相关机构的法律于学术责任。
 Please print a copy of this Letter of Consent for your records.	请保存这份知情同意书以备后用。
 
-How old are you (in years)?	你几岁了？
-What country are you from (e.g., USA)?	填写国家（既然用了这个汉化那应该是填中国）
-What state, province, or region are you from? (e.g., Colorado)	填写省份（包括港澳台都属于填这里）
 
-Are you a... (Check all that apply)	请勾选你的身份（以及想要成为的）
+Instructions: Please read and follow the instructions for each question/section. Unless stated otherwise, please simply select an answer. We greatly appreciate your participation and contribution to scientific knowledge about the Furry fandom. Remember there are no right or wrong answers and your responses are anonymous! Thank you for your help!	引言：请阅读每一个问题或每一章节的导语。除非另有说明，请简单选择一个答案。我们非常感谢你的参与为兽圈知识带来的贡献。请记住这里的回答没有对错之分，而且你的回答是匿名的！非常感谢您的帮助！
+
+
+How old are you (in years)?	您今年的年龄是？
+What country are you from (e.g., USA)?	您来自哪个国家？（既然用了这个汉化那应该是填【中国】）
+What state, province, or region are you from? (e.g., Colorado)	您所在的省份（州、自治区）是？（包括港澳台都填在这里）
+
+
+Are you a... (Check all that apply)	您更愿意称呼自己为……（以及想要成为的）
 Furry	兽迷
 Military Fur	现役/退役军兽
 Brony	马迷
@@ -59,3 +64,7 @@ Sci-Fi Fan	科幻迷
 Cub/Babyfur	幼兽/幼兽迷
 Otherkin	其他种族人外
 Other	其他（任意填写）
+
+
+If you are a furry, how long, in years, have you considered yourself a furry?	你发现自己是兽迷有多少年了？
+What year did you first become involved in the furry fandom? (e.g., 2010)	你大概是什么时间入的兽圈？
