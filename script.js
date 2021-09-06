@@ -1,3 +1,5 @@
+function foo(){/*
+
 
 version	2021090601	尝试修复部分bug
 
@@ -249,8 +251,8 @@ How much do you love your partner?	你有多爱你的对象?
 How many problems are there in your relationship?	你的关系之中有多少问题？
 
 
-Please rate your agreement with the following items.\nFurries who are older than me...	请对以下事物表达你的同意程度\n比我年长的兽迷...
-Please rate your agreement with the following items.\nFurries who are younger than me...	请对以下事物表达你的同意程度\n比我年轻的兽迷...
+Please rate your agreement with the following items.\n\n Furries who are older than me...	请对以下事物表达你的同意程度\n比我年长的兽迷...
+Please rate your agreement with the following items.\n\n Furries who are younger than me...	请对以下事物表达你的同意程度\n比我年轻的兽迷...
 tend to intimidate other furries.	容易去威胁/恐吓别的小动物
 are too cliquish.	更排外
 are too accepting or tolerant of questionable groups in the furry fandom.	对于圈内那些有问题行为的群体容忍度太高了。
@@ -310,7 +312,7 @@ Being a furry has helped me grow as a person.	作为一位兽迷帮助了我个�
 Being a furry makes me feel distinct and unique compared to other people.	做一位兽迷让我觉得自己比其他人更加独特。
 I am more creative because I am a furry.	我因为是一位兽迷而变得更为有创造力。
 
-
+Please rate your agreement with the following items.	请对以下事物表达你的同意程度.
 I get the emotional support I need from the furry community.	我能从兽圈中获得需要的精神上的支持。
 I can talk about my problems within the furry community.	我能在兽圈中谈论我所遇到的问题。
 I can share my joys and sorrows within the furry community.	我能和圈子里的大家分享我的喜怒哀乐。
@@ -411,7 +413,7 @@ Chatting with non-furries about furries.	和不是兽圈的人讨论兽圈。
 
 
 Instructions: Please estimate the amount of leisure/free time you engage in activities related to your interest in furries (e.g., watching, reading, listening, talking with friends about furries, reading forums/news/social media related to furries, etc.). In other words, when thinking about your free time (outside of work and daily tasks) how much of that time is spent on things related to your furry interest?	填写教程：请估算一下你有多少休闲时间花在了兽圈事务*上（*例如看，读，听，和朋友们讨论兽圈，阅读论坛、新闻、或者和兽圈有关的媒体信息等））。 换句话说，在你的可自由支配时间里（不用想工作并完成每日任务后）你的时间有多少被花在了和兽圈相关的兴趣上面？
-The percentage of my leisure/free time that I engage in furry-related activities is... (click and drag slider)	我所花在兽圈事务上面的时间占我空闲时间的百分比为......（点击并拖动滑块）
+The percentage of my leisure/free time that I engage in furry-related activities is... (click and drag slider)\n	我所花在兽圈事务上面的时间占我空闲时间的百分比为......（点击并拖动滑块）\n
 % of Leisure Time on Furry Activities	空闲时间中兽圈活动的占比
 
 I often participate in furry-related activities in my leisure time.	我常常在有空闲时参加兽圈相关的活动
@@ -432,8 +434,7 @@ Furry activities contribute to my emotional well-being.	兽圈活动帮助我维
 I engage in my furry activities simply because I like doing them.	我参加兽圈活动只是因为我喜欢。
 
 
-Please rate the following items regarding your furry activities.	请从您的兽圈活动体验出发对于以下事务进行同意程度打分。
-My furry activities enable me...	兽圈活动能够让我......
+Please rate the following items regarding your furry activities.\n\n My furry activities enable me...	请从您的兽圈活动体验出发对于以下事务进行同意程度打分。\n\n 兽圈活动能够让我......
 To meet other people.	去遇见更多的人。
 To be in touch with other people.	和人们保持联系 
 To communicate with people.	和别人交流
@@ -522,30 +523,11 @@ Please describe how you and others in your relationship(s) negotiated the rules 
 Many individuals and families seek support from professionals (i.e., counsellors, social workers). Have you ever sought individual or family counseling since identifying as polyamorous? If yes, what factors led up to you seeking that support? Please explain your experience. What factors contributed to positive/negative experiences? Did being furry have any impact?	许多个人和家庭会寻求专业人士(比如辅导员、社会工作者)的支持。自确定自己是多边关系者后，你是否曾寻求过个人或家庭咨询？如果是，是什么因素驱使你去寻求支持？请描述一下你的经历。什么因素促成了积极/消极的体验？成为兽迷对于这段经历有什么影响吗？
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Do you have any other thoughts, comments, criticisms, or suggestions about this study that you'd like to let the researchers know about?	对于此次调查，你是否还有其他的想法、评价、意见或建议想要告诉研究员们？
 
 
 
-
+*/}
 
 
 
