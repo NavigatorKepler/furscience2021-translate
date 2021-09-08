@@ -1,4 +1,4 @@
-version	2021090805	release前的最后准备
+version	2021090902	修正错别字
 
 Strongly Disagree\n1	完全\n不同意\n1
 Neutral\n4	中立\n4
@@ -153,7 +153,7 @@ If you have a fursona, what is your fursona to you? Does it serve any particular
 If you have a fursona, has your fursona changed over time? If so, how / why?	如果你有兽设, 那么你是否曾经多次修改或更换兽设? 如果是的话, 为什么呢? 
 
 
-Which of the following racial groups comes closest to identifying you (check all that apply)	你最接近以下那个/些种族（符合的请全部勾选）
+Which of the following racial groups comes closest to identifying you (check all that apply)	你最接近以下哪个/些种族（符合的请全部勾选）
 White	白人
 Black / African Diaspora	黑人/非裔
 Native American / Indigenous	美洲原住民/土著
@@ -199,7 +199,7 @@ People can identify with many different labels (e.g., daughter, friend, student,
 
 What is your current relationship status? (Select all that apply)	你的婚恋状况如何? 
 Not Partnered	单身
-Dating	热恋中
+Dating	恋爱中
 Polyamorous	多边关系
 Engaged	已订婚
 Married / Common Law	已婚/契约意义(闪婚)
