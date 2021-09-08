@@ -1,17 +1,17 @@
-version	2021090803	release前的最后准备
+version	2021090804	release前的最后准备
 
 Strongly Disagree\n1	完全\n不同意\n1
-Neutral\n4	保持中立\n4
+Neutral\n4	中立\n4
 Strongly Agree\n7	完全\n同意\n7
 Disagree\n2	不同意\n2
 Undecided\n3	不太确定\n3
-Agree\n4	同意
+Agree\n4	同意\n4
 Strongly Agree\n5	完全\n同意\n5
 Not Applicable	不适用\n于我
 
 Never\n1	从不\n1
 Often\n7	经常\n7
-Very Often\n7	几乎总是\n7
+Very Often\n7	一直\n如此\n7
 
 Not at all characteristic of me\n1	不符合我\n1
 Very characteristic of me\n5	很符合我\n5
@@ -548,4 +548,4 @@ f) The functions of fursonas.	f) 兽设的功能
 
 
 Thank you again for your participation in this research! 	再次感谢你愿意参与我们的研究！
-Also, be sure to check furscience.com for updates on results from our studies. 	同时也不要忘了去furscience.com网站, 关注我们的最新进展. 
+Also, be sure to check furscience.com for updates on results from our studies.	同时也不要忘了去furscience.com网站, 关注我们的最新进展. 
