@@ -1,4 +1,4 @@
-version	2021090801	release前的最后准备
+version	2021090802	release前的最后准备
 
 Strongly Disagree\n1	完全\n不同意\n1
 Neutral\n4	保持中立\n4
@@ -18,6 +18,9 @@ Very characteristic of me\n5	很符合我\n5
 
 Very Poor(ly) / Not at all / Never / None\n1	从不\n1
 High(ly) / Completely / All the time / Many\n5	经常\n5
+
+If you identify as a minority or marginalized person, do you feel accepted within the fandom? Have you ever felt that you needed to hide your marginalized status online when interacting with the furry fandom?	如果你自认为是少数群体或被边缘化的人，你是否觉得在圈子中自己能有一席之地？在你与兽圈中的其他人在网上互动的时候，你是否曾经会觉得需要隐藏自己异于别人的特点？
+
 
 LETTER OF CONSENT TO PARTICIPATE IN A RESEARCH PROJECT	自愿参加研究知情同意书
 On-line survey	线上问卷
@@ -523,6 +526,20 @@ Many individuals and families seek support from professionals (i.e., counsellors
 Do you have any other thoughts, comments, criticisms, or suggestions about this study that you'd like to let the researchers know about?	对于此次调查，你是否还有其他的想法、评价、意见或建议想要告诉研究员们？
 
 
+General Debriefing	总结
+
+
+
+
+
+
+The survey you just saw was created by a team of psychologists studying a variety of different topics. These topics include:	此次调查由一群心理学家发起，目的是研究不同的话题，包括：
+a) The role that fandoms play in forging and maintaining romantic relationships, including polyamorous relationships.	兽圈在感情关系的形成和维持中的作用，包括多边关系
+b) Conflict and intergenerational differences in fandom spaces.	兽圈中的冲突与代沟
+c) Non-furry identities and their place in furry spaces.	Furry环境下非兽迷的身份以及它们占有的地位
+d) Fandoms as leisure activities.	Furry活动与休闲时间
+e) Different types of fans and different functions of fandoms for those fans.	兽圈中不同种类的兽迷，以及兽圈对这些兽迷的不同功能
+f) The functions of fursonas.	兽设的功能
 
 
 
@@ -531,3 +548,4 @@ Do you have any other thoughts, comments, criticisms, or suggestions about this 
 
 
 
+Thank you again for your participation in this research! Also, be sure to check furscience.com for updates on results from our studies.	再次感谢你愿意参与我们的研究！同时也不要忘了去furscience.com网站，关注我们的最新进展
