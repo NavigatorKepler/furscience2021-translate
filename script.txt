@@ -1,4 +1,4 @@
-version	2021090802	release前的最后准备
+version	2021090803	release前的最后准备
 
 Strongly Disagree\n1	完全\n不同意\n1
 Neutral\n4	保持中立\n4
@@ -19,7 +19,7 @@ Very characteristic of me\n5	很符合我\n5
 Very Poor(ly) / Not at all / Never / None\n1	从不\n1
 High(ly) / Completely / All the time / Many\n5	经常\n5
 
-If you identify as a minority or marginalized person, do you feel accepted within the fandom? Have you ever felt that you needed to hide your marginalized status online when interacting with the furry fandom?	如果你自认为是少数群体或被边缘化的人，你是否觉得在圈子中自己能有一席之地？在你与兽圈中的其他人在网上互动的时候，你是否曾经会觉得需要隐藏自己异于别人的特点？
+If you identify as a minority or marginalized person, do you feel accepted within the fandom? Have you ever felt that you needed to hide your marginalized status online when interacting with the furry fandom?	如果你自认为是少数群体或被边缘化的人, 你是否觉得在圈子中自己能有一席之地? 在你与兽圈中的其他人在网上互动的时候, 你是否曾经会觉得需要隐藏自己异于别人的特点? 
 
 
 LETTER OF CONSENT TO PARTICIPATE IN A RESEARCH PROJECT	自愿参加研究知情同意书
@@ -38,38 +38,38 @@ Self-identified furries age 18 years and older who agree to participate in this 
 To thank you for your participation in this study, you will have a chance to win an Amazon gift card. Your odds of winning one of the prizes is based on the number of individuals who participate in the study. We expect that approximately 1000 individuals will take part in the study. To be entered in the draw for one (of up to ten) $25 Amazon.com gift cards, please e-mail Dr. Courtney Plante (cplante@ubishops.ca) with the confirmation code at the end of this survey. In order to be eligible for the gift card draw you will need to send the e-mail from a valid e-mail address, as we will need to contact you if you win.	为了向您的参与表示感谢, 您将有机会获得一张Amazon的礼品卡. 您的中奖几率由参与该项研究的总人数决定, 预估总人数约1000人. 若要参与抽奖并赢得一张（共10张）价值25美金的亚马逊礼品卡, 请编辑邮件给Courtney Plante 博士 (cplante@ubishops.ca) , 并注明在本问卷结束后显示的验证码. 为了您能够收到奖品, 请用有效的电子邮箱发送该邮件, 以便于中奖后的联系. 
 
 Voluntary participation and right to withdraw	自愿参与和退出研究的权利
-Participation in this research project is completely voluntary. You do not have to respond to any questions that make you feel uncomfortable and you have the right to withdraw from this study at any time with no consequences. If you decide to withdraw from the survey or want your data to be deleted and to not be analyzed by the researchers, you are asked to skip to the end of the survey and state in the final comments that you wish for your data to be deleted. You will still receive the confirmation code and be permitted to enter the draw if you choose to do this. You may also withdraw from the study by closing the browser window at any time – partial data will be deleted by the researchers. Please be advised, however, that if you close the browser window before getting to the end of the study, you will not receive the confirmation code.	该项研究的参与是完全自愿的。你不需要回答任何你不想回答的问题，并且你有权随时退出这项研究并不会有任何后果。如果你希望退出该项研究, 或希望从数据库中删除你的信息使其不再作为研究的一部分，请跳过所有问题直到问卷最后的留言区, 声明你希望删除这些数据。这样做你仍会获得验证码并有机会参与抽奖。你也可以选择通过中途关闭浏览器的方式来退出研究——研究员会手动删除不完整的问卷。然而，请注意，如果你在问卷结束之前关闭了浏览器，您将无法获得抽奖用的验证码。
+Participation in this research project is completely voluntary. You do not have to respond to any questions that make you feel uncomfortable and you have the right to withdraw from this study at any time with no consequences. If you decide to withdraw from the survey or want your data to be deleted and to not be analyzed by the researchers, you are asked to skip to the end of the survey and state in the final comments that you wish for your data to be deleted. You will still receive the confirmation code and be permitted to enter the draw if you choose to do this. You may also withdraw from the study by closing the browser window at any time – partial data will be deleted by the researchers. Please be advised, however, that if you close the browser window before getting to the end of the study, you will not receive the confirmation code.	该项研究的参与是完全自愿的. 你不需要回答任何你不想回答的问题, 并且你有权随时退出这项研究并不会有任何后果. 如果你希望退出该项研究, 或希望从数据库中删除你的信息使其不再作为研究的一部分, 请跳过所有问题直到问卷最后的留言区, 声明你希望删除这些数据. 这样做你仍会获得验证码并有机会参与抽奖. 你也可以选择通过中途关闭浏览器的方式来退出研究——研究员会手动删除不完整的问卷. 然而, 请注意, 如果你在问卷结束之前关闭了浏览器, 您将无法获得抽奖用的验证码. 
 
 SECURITY & ANONYMITY	匿名和隐私协议
-Several steps will be taken to ensure the security and anonymity of survey data submitted. You will be completing the study by an online survey operated by Qualtrics. Qualtrics has implemented technical, administrative, and physical safeguards to protect the information provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet transmission is ever fully secure or error free. When information is transmitted over the Internet, privacy cannot be guaranteed. There is always a risk your responses may be intercepted by a third party (e.g., government agencies, hackers). The researchers will not collect or use Internet protocol (IP) addresses or other information which could link your participation to your computer or electronic device.	为了确保数据的安全性和匿名性，我们采取了一些措施。您将会在Qualtrics运营的平台上完成此次调查。Qualtrics已经采用了技术、管理和物理保护措施，以保护通过服务提供的信息免遭丢失、误用、盗窃、披露、更改或破坏。但是，没有绝对安全且零失误的网络连接。我们不能保证信息在传输过程中的隐私性。有可能您的信息在传输过程中会被第三方截获（比如防火墙和骇客）。但是研究员不会收集IP地址等信息，将您的设备与此次问卷相关联。
-The data collected will be accessible to the researchers (Dr. Courtney Plante – Bishop’s University; Dr. Stephen Reysen, Texas A&M University – Commerce, Dr. Kathleen Gerbasi, Niagara County Community College; Dr. Sharon Roberts, Renison University College – University of Waterloo) and to their research assistants and project collaborators. The data will be stored on the researchers’ password protected terminals and will be retained for a period of 5 years, after which it will be disposed of (deleted). There will not be any printed material or printing of any raw data from this study.	这些数据将由以下研究员使用(Dr. Courtney Plante – Bishop’s University; Dr. Stephen Reysen, Texas A&M University – Commerce, Dr. Kathleen Gerbasi, Niagara County Community College; Dr. Sharon Roberts, Renison University College – University of Waterloo)，以及他们的助手和研究合作方。数据将保存在研究员们有密码保护的终端设备上，并保留五年，五年后将被彻底删除。收集到的原始数据不会被打印到纸质文件上。
-Should you choose to enter the draw, the email address provided will be used solely for the purpose of the draw and will be deleted after the draw is complete. Importantly, your email address cannot be linked to your survey responses in any way.	如果你选择参与抽奖，你的电子邮件将仅被用于抽奖，并将在抽奖结束后被删除。请注意，你的电子邮件与你提供的数据将不会有任何联系。
-All data collected will be the property of the researcher(s) and will be used strictly for the above-mentioned project. Since the information collected is anonymous, participants cannot have access to their data.	你的身份将被保密，你提供的数据将仅被用于上述研究。因为数据是匿名提交的，所以参与者也无法找回自己的数据。
-The information collected over the course of this research project may be published in scientific/academic journals or shared with other persons during scientific discussions. Any reports of this study will contain information that reflects group results and not information about specific individuals. Please note that anonymous quotations from your open-ended survey responses may be used in papers and publications resulting from this study. Participants’ identities will be kept private. In order to be informed of any publications, participants may send an e-mail address to the researchers (	该研究中数据得出的信息将可能被发表在科学/学术期刊上或在学术讨论中与他人分享。该研究的任何报告都只会包含反应群体特征而非个人信息的数据。但请注意您在开放式问题中填写的内容，可能会被匿名地引用在本研究的论文或出版物上。您的身份仍然会被保密。如果您想获得关于出版物的信息，可以发送电子邮件给研究人员(
-) to be kept informed about the study’s results when they are finalized. Also, check furscience.com for updates on results from the team’s studies. 	)，以便在最终确定研究结果时得到通知。同时，查看furscience.com，了解团队研究结果的更新。
+Several steps will be taken to ensure the security and anonymity of survey data submitted. You will be completing the study by an online survey operated by Qualtrics. Qualtrics has implemented technical, administrative, and physical safeguards to protect the information provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet transmission is ever fully secure or error free. When information is transmitted over the Internet, privacy cannot be guaranteed. There is always a risk your responses may be intercepted by a third party (e.g., government agencies, hackers). The researchers will not collect or use Internet protocol (IP) addresses or other information which could link your participation to your computer or electronic device.	为了确保数据的安全性和匿名性, 我们采取了一些措施. 您将会在Qualtrics运营的平台上完成此次调查. Qualtrics已经采用了技术、管理和物理保护措施, 以保护通过服务提供的信息免遭丢失、误用、盗窃、披露、更改或破坏. 但是, 没有绝对安全且零失误的网络连接. 我们不能保证信息在传输过程中的隐私性. 有可能您的信息在传输过程中会被第三方截获（比如防火墙和骇客）. 但是研究员不会收集IP地址等信息, 将您的设备与此次问卷相关联. 
+The data collected will be accessible to the researchers (Dr. Courtney Plante – Bishop’s University; Dr. Stephen Reysen, Texas A&M University – Commerce, Dr. Kathleen Gerbasi, Niagara County Community College; Dr. Sharon Roberts, Renison University College – University of Waterloo) and to their research assistants and project collaborators. The data will be stored on the researchers’ password protected terminals and will be retained for a period of 5 years, after which it will be disposed of (deleted). There will not be any printed material or printing of any raw data from this study.	这些数据将由以下研究员使用(Dr. Courtney Plante – Bishop’s University; Dr. Stephen Reysen, Texas A&M University – Commerce, Dr. Kathleen Gerbasi, Niagara County Community College; Dr. Sharon Roberts, Renison University College – University of Waterloo), 以及他们的助手和研究合作方. 数据将保存在研究员们有密码保护的终端设备上, 并保留五年, 五年后将被彻底删除. 收集到的原始数据不会被打印到纸质文件上. 
+Should you choose to enter the draw, the email address provided will be used solely for the purpose of the draw and will be deleted after the draw is complete. Importantly, your email address cannot be linked to your survey responses in any way.	如果你选择参与抽奖, 你的电子邮件将仅被用于抽奖, 并将在抽奖结束后被删除. 请注意, 你的电子邮件与你提供的数据将不会有任何联系. 
+All data collected will be the property of the researcher(s) and will be used strictly for the above-mentioned project. Since the information collected is anonymous, participants cannot have access to their data.	你的身份将被保密, 你提供的数据将仅被用于上述研究. 因为数据是匿名提交的, 所以参与者也无法找回自己的数据. 
+The information collected over the course of this research project may be published in scientific/academic journals or shared with other persons during scientific discussions. Any reports of this study will contain information that reflects group results and not information about specific individuals. Please note that anonymous quotations from your open-ended survey responses may be used in papers and publications resulting from this study. Participants’ identities will be kept private. In order to be informed of any publications, participants may send an e-mail address to the researchers (	该研究中数据得出的信息将可能被发表在科学/学术期刊上或在学术讨论中与他人分享. 该研究的任何报告都只会包含反应群体特征而非个人信息的数据. 但请注意您在开放式问题中填写的内容, 可能会被匿名地引用在本研究的论文或出版物上. 您的身份仍然会被保密. 如果您想获得关于出版物的信息, 可以发送电子邮件给研究人员(
+) to be kept informed about the study’s results when they are finalized. Also, check furscience.com for updates on results from the team’s studies. 	), 以便在最终确定研究结果时得到通知. 同时, 查看furscience.com, 了解团队研究结果的更新. 
 
 Potential risks	潜在的风险
-It is possible that some questions (e.g., sexual orientation, gender identity, race, relationship status, history of bullying) could make you feel some discomfort. Please remember that you are free to skip any and all questions in this study for any reason and still submit your email for the draw.	问卷中的某些题目可能会让您感到不适, 请注意您可以选择性的跳过某些问题而无需任何理由，并且仍然能够参与最终的抽奖。
+It is possible that some questions (e.g., sexual orientation, gender identity, race, relationship status, history of bullying) could make you feel some discomfort. Please remember that you are free to skip any and all questions in this study for any reason and still submit your email for the draw.	问卷中的某些题目可能会让您感到不适, 请注意您可以选择性的跳过某些问题而无需任何理由, 并且仍然能够参与最终的抽奖. 
 
 Potential benefits	可能因此产生的益处
-There are no direct benefits to you for participating in this research. However, your participation will have the benefit of contributing to our understanding of the furry fandom and related social psychological topics, knowledge which will hopefully benefit both the furry community and the field of psychology. Findings from this research will be made available at the FurScience Website at: www.furscience.com/research-findings.	参与该研究对你并没有任何直接益处。然而，你的参与将对更好的认识兽圈以及相关的社会心理学课题作出贡献。这些知识将对兽圈以及心理学界产生益处。该研究相关的结论将被发布在我们的网站：www.furscience.com/ 
+There are no direct benefits to you for participating in this research. However, your participation will have the benefit of contributing to our understanding of the furry fandom and related social psychological topics, knowledge which will hopefully benefit both the furry community and the field of psychology. Findings from this research will be made available at the FurScience Website at: www.furscience.com/research-findings.	参与该研究对你并没有任何直接益处. 然而, 你的参与将对更好的认识兽圈以及相关的社会心理学课题作出贡献. 这些知识将对兽圈以及心理学界产生益处. 该研究相关的结论将被发布在我们的网站：www.furscience.com/ 
 
 Contact information	联系方式
-Dr. Courtney Plante, the study’s principal investigator, can be reached at cplante@ubishops.ca or 819-580-0059. Dr. Roberts can be reached at Sharon.roberts@uwaterloo.ca, Dr. Reysen at Stephen.Reysen@tamuc.edu, and Dr. Gerbasi at kathleencgerbasiphd@gmail.com. This research has been approved by Bishop’s University’s Research Ethics Board (REB #102485) on July 9th, 2021, by the University of Waterloo’s Research Ethics Board (REB#43582)	要联系该研究的首席研究员Dr. Courtney Plante, 请致信cplante@ubishops.ca 或致电819-580-0059. 要联系Dr. Roberts 请致信Sharon.roberts@uwaterloo.ca, 要联系Dr. Reysen 请致信 Stephen.Reysen@tamuc.edu, 要联系 Dr. Gerbasi 请致信 kathleencgerbasiphd@gmail.com. 本研究已经于2021年7月9日通过主教大学研究伦理委员会(REB #102485)的审查，于8月6日通过滑铁卢大学伦理委员会(REB#43582)审查，
+Dr. Courtney Plante, the study’s principal investigator, can be reached at cplante@ubishops.ca or 819-580-0059. Dr. Roberts can be reached at Sharon.roberts@uwaterloo.ca, Dr. Reysen at Stephen.Reysen@tamuc.edu, and Dr. Gerbasi at kathleencgerbasiphd@gmail.com. This research has been approved by Bishop’s University’s Research Ethics Board (REB #102485) on July 9th, 2021, by the University of Waterloo’s Research Ethics Board (REB#43582)	要联系该研究的首席研究员Dr. Courtney Plante, 请致信cplante@ubishops.ca 或致电819-580-0059. 要联系Dr. Roberts 请致信Sharon.roberts@uwaterloo.ca, 要联系Dr. Reysen 请致信 Stephen.Reysen@tamuc.edu, 要联系 Dr. Gerbasi 请致信 kathleencgerbasiphd@gmail.com. 本研究已经于2021年7月9日通过主教大学研究伦理委员会(REB #102485)的审查, 于8月6日通过滑铁卢大学伦理委员会(REB#43582)审查, 
 on August 6th, 2021, and by Texas A&M University's Research Ethics Board on July 20th, 2021.	于7月20日通过德州农工大学研究伦理委员会的审查.
-If you have any concerns regarding this project, you may contact Dr. Cristian Berco, Chair of the Research Ethics Board, at 819-822-9600, ext. 2190, or by e-mail at cberco@ubishops.ca, or Dr. Miles Turnbull, Vice-Principal Academic at 819-822-9600, ext. 2227, or by e-mail at mturnbul@ubishops.ca. You may also contact the Office of Research Ethics at the University of Waterloo at 1-519-888-4567 ext. 36005 or reb@uwaterloo.ca.	如果你对该研究有任何疑虑，请联系伦理委员会主席 Berco 博士： cberco@ubishops.ca或致电819-822-9600转2190 或副主席Turnbull 博士：mturnbul@ubishops.ca或致电819-822-9600转2227 。您也可以联系滑铁卢大学伦理委员会：reb@uwaterloo.ca或致电1-519-888-4567转36005. 
+If you have any concerns regarding this project, you may contact Dr. Cristian Berco, Chair of the Research Ethics Board, at 819-822-9600, ext. 2190, or by e-mail at cberco@ubishops.ca, or Dr. Miles Turnbull, Vice-Principal Academic at 819-822-9600, ext. 2227, or by e-mail at mturnbul@ubishops.ca. You may also contact the Office of Research Ethics at the University of Waterloo at 1-519-888-4567 ext. 36005 or reb@uwaterloo.ca.	如果你对该研究有任何疑虑, 请联系伦理委员会主席 Berco 博士： cberco@ubishops.ca或致电819-822-9600转2190 或副主席Turnbull 博士：mturnbul@ubishops.ca或致电819-822-9600转2227 . 您也可以联系滑铁卢大学伦理委员会：reb@uwaterloo.ca或致电1-519-888-4567转36005. 
 
 Consent (Declaration of participant)	签署同意书
-I have read and understand the terms of the present consent form. I have made this decision based on the information I have received about it, and I accept its stipulations. I understand that by completing and submitting this electronic survey I am giving my consent to participate in this study according to the terms outlined above.	我已经阅读并理解了已给出的内容。基于我了解的信息，我决定接受这些条款。我知晓完成并提交这份问卷意味着同意参与基于以上条款的这项研究。我知晓同意参与这项研究，不意味着放弃我的权利或减免研究员或相关机构的法律于学术责任。
-Please print a copy of this Letter of Consent for your records.	请保存这份知情同意书以备后用。
+I have read and understand the terms of the present consent form. I have made this decision based on the information I have received about it, and I accept its stipulations. I understand that by completing and submitting this electronic survey I am giving my consent to participate in this study according to the terms outlined above.	我已经阅读并理解了已给出的内容. 基于我了解的信息, 我决定接受这些条款. 我知晓完成并提交这份问卷意味着同意参与基于以上条款的这项研究. 我知晓同意参与这项研究, 不意味着放弃我的权利或减免研究员或相关机构的法律于学术责任. 
+Please print a copy of this Letter of Consent for your records.	请保存这份知情同意书以备后用. 
 
 
-Instructions: Please read and follow the instructions for each question/section. Unless stated otherwise, please simply select an answer. We greatly appreciate your participation and contribution to scientific knowledge about the Furry fandom. Remember there are no right or wrong answers and your responses are anonymous! Thank you for your help!	引言：请阅读每一个问题或每一章节的导语。除非另有说明，请简单选择一个答案。我们非常感谢你的参与为兽圈知识带来的贡献。请记住这里的回答没有对错之分，而且你的回答是匿名的！非常感谢您的帮助！
+Instructions: Please read and follow the instructions for each question/section. Unless stated otherwise, please simply select an answer. We greatly appreciate your participation and contribution to scientific knowledge about the Furry fandom. Remember there are no right or wrong answers and your responses are anonymous! Thank you for your help!	引言：请阅读每一个问题或每一章节的导语. 除非另有说明, 请简单选择一个答案. 我们非常感谢你的参与为兽圈知识带来的贡献. 请记住这里的回答没有对错之分, 而且你的回答是匿名的！非常感谢您的帮助！
 
 
-How old are you (in years)?	您今年的年龄是？
-What country are you from (e.g., USA)?	您来自哪个国家？
-What state, province, or region are you from? (e.g., Colorado)	您所在的省份（州、自治区）是？
+How old are you (in years)?	您今年的年龄是? 
+What country are you from (e.g., USA)?	您来自哪个国家? 
+What state, province, or region are you from? (e.g., Colorado)	您所在的省份（州、自治区）是? 
 
 
 Are you a... (Check all that apply)	你自认为是……（请选择所有合适的选项）
@@ -92,13 +92,13 @@ Otherkin	幻想生物信仰者
 Other	其他（任意填写）
 
 
-If you are a furry, how long, in years, have you considered yourself a furry?	如果你是一名furry，你认为自己成为furry有多少年了？（请填数字）
-What year did you first become involved in the furry fandom? (e.g., 2010)	你大概是什么时间入的兽圈？(比如: 2010年)
+If you are a furry, how long, in years, have you considered yourself a furry?	如果你是一名furry, 你认为自己成为furry有多少年了? （请填数字）
+What year did you first become involved in the furry fandom? (e.g., 2010)	你大概是什么时间入的兽圈? (比如: 2010年)
 
-What does being a furry mean to you?	furry的身份对于你来说意味着什么？
+What does being a furry mean to you?	furry的身份对于你来说意味着什么? 
 
 
-If you currently identify with a particular animal or have a particular furry persona (fursona), what species is it? Check off as many of the options below as are applicable. If your fursona is a hybrid species, please check the "hybrid" box. You may also complete the "other" options if needed. If you have more than one fursona, please respond with the fursona you identify with most strongly.	如果如果你目前自认为自己是某种动物，或者有一个兽圈人设（兽设），它是什么物种？请把所有你觉得符合的选项都勾选上。如果你的兽设是混合种族，请同时勾选“混血”。如有需要，你也可以填写那些“其他”选项  如果你有不止一个兽设，请按照和你的身份联系最强的一个填写。
+If you currently identify with a particular animal or have a particular furry persona (fursona), what species is it? Check off as many of the options below as are applicable. If your fursona is a hybrid species, please check the "hybrid" box. You may also complete the "other" options if needed. If you have more than one fursona, please respond with the fursona you identify with most strongly.	如果如果你目前自认为自己是某种动物, 或者有一个兽圈人设（兽设）, 它是什么物种? 请把所有你觉得符合的选项都勾选上. 如果你的兽设是混合种族, 请同时勾选“混血”. 如有需要, 你也可以填写那些“其他”选项  如果你有不止一个兽设, 请按照和你的身份联系最强的一个填写. 
 Wolf	狼
 Snake	蛇
 Fox	狐狸
@@ -143,43 +143,43 @@ Unicorn	独角兽
 Phoenix	凤凰
 
 
-If you have a fursona, what is your fursona to you? Does it serve any particular functions?	如果你有兽设，那么兽设对于你来说有怎样的意义？TA有特定的功能吗？
+If you have a fursona, what is your fursona to you? Does it serve any particular functions?	如果你有兽设, 那么兽设对于你来说有怎样的意义? TA有特定的功能吗? 
 
 
-If you have a fursona, has your fursona changed over time? If so, how / why?	如果你有兽设，那么你是否曾经多次修改或更换兽设？如果是的话，为什么呢？
+If you have a fursona, has your fursona changed over time? If so, how / why?	如果你有兽设, 那么你是否曾经多次修改或更换兽设? 如果是的话, 为什么呢? 
 
 
 Which of the following racial groups comes closest to identifying you (check all that apply)	你最接近以下那个/些种族（符合的请全部勾选）
 White	白人
 Black / African Diaspora	黑人/非裔
 Native American / Indigenous	美洲原住民/土著
-East Asian or Pacific Islander	东亚人/太平洋各岛人种（一般情况下，中国人请选这个）
+East Asian or Pacific Islander	东亚人/太平洋各岛人种（一般情况下, 中国人请选这个）
 Hispanic or Latina/o/x	拉丁/西班牙裔
 Middle Eastern	中东人
 Central Asian / Indian	中亚/印度人
 Multiracial	多人种/混血儿
 
 
-Do you think your race has affected your fandom experience?	你的种族是否影响到你在兽圈中的经历？（这里指人种）
+Do you think your race has affected your fandom experience?	你的种族是否影响到你在兽圈中的经历? （这里指人种）
 
 
-How often do you think about your race in fandom spaces? Is it usually in a positive, neutral, or negative manner? In what contexts does it come up, if it comes up at all?	你在兽圈中想到自己种族(人种)的频率如何？它通常是积极的，中性的，或是消极的？如果会想到，一般是在何种环境中？
+How often do you think about your race in fandom spaces? Is it usually in a positive, neutral, or negative manner? In what contexts does it come up, if it comes up at all?	你在兽圈中想到自己种族(人种)的频率如何? 它通常是积极的, 中性的, 或是消极的? 如果会想到, 一般是在何种环境中? 
 
 
-We recognize that people can identify in many ways when it comes to gender, but some analyses require us to have participants only in one category. Which of the following categories best describes you? (You will have an opportunity to be more precise or clarify in the next question).	我们注意到当人们提及性别认同，往往会涉及多种分类，但是很多问题在分析时都要求我们只能使用一类标准。以下哪个词汇能够最恰当的描述你的性别？
+We recognize that people can identify in many ways when it comes to gender, but some analyses require us to have participants only in one category. Which of the following categories best describes you? (You will have an opportunity to be more precise or clarify in the next question).	我们注意到当人们提及性别认同, 往往会涉及多种分类, 但是很多问题在分析时都要求我们只能使用一类标准. 以下哪个词汇能够最恰当的描述你的性别? 
 Cis-woman	顺性别女
 Cis-man	顺性别男
 Trans woman	跨性别女
 Trans man	跨性别男
 Genderqueer / Non-binary / Gender non-conforming / Agender	性别酷儿/非二元性别/性别未定/无性别
 
-How would you most accurately describe your gender identity?	请更精确地描述你的性别认同？
+How would you most accurately describe your gender identity?	请更精确地描述你的性别认同? 
 
 
-How often do you think about your gender in fandom spaces? Is it usually in a positive, neutral, or negative manner? In what contexts does it come up, if it comes up at all?	你在兽圈中想到到自己性别的频率如何？它通常是积极的，中性的，或是消极的？如果会想到，一般是在何种环境中？
+How often do you think about your gender in fandom spaces? Is it usually in a positive, neutral, or negative manner? In what contexts does it come up, if it comes up at all?	你在兽圈中想到到自己性别的频率如何? 它通常是积极的, 中性的, 或是消极的? 如果会想到, 一般是在何种环境中? 
 
 
-What is your sexual orientation? Select the option which best describes you from the choices below.	你的性取向是什么？请选择下面最符合你的一项
+What is your sexual orientation? Select the option which best describes you from the choices below.	你的性取向是什么? 请选择下面最符合你的一项
 Lesbian, gay, or homosexual	男女同性恋
 Straight or heterosexual	异性恋
 Bisexual	双性恋
@@ -190,10 +190,10 @@ I don't know	我不知道
 Something else (please specify)	其他（请注明）
 
 
-People can identify with many different labels (e.g., daughter, friend, student, American, gay, transgender, Indigenous, etc.) Do any of your identities / labels ever affect your identity as a furry or experience in furry spaces?	人们可以用很多不同的标签来表明自己的身份，比如“女儿”、“朋友”、“学生”、“美国人”、“同性恋”、“跨性别者”、“土著”等。是否有一些你自己的标签影响到了你作为furry的身份或者在兽圈中的经历？
+People can identify with many different labels (e.g., daughter, friend, student, American, gay, transgender, Indigenous, etc.) Do any of your identities / labels ever affect your identity as a furry or experience in furry spaces?	人们可以用很多不同的标签来表明自己的身份, 比如“女儿”、“朋友”、“学生”、“美国人”、“同性恋”、“跨性别者”、“土著”等. 是否有一些你自己的标签影响到了你作为furry的身份或者在兽圈中的经历? 
 
 
-What is your current relationship status? (Select all that apply)	你的婚恋状况如何？
+What is your current relationship status? (Select all that apply)	你的婚恋状况如何? 
 Not Partnered	单身
 Dating	热恋中
 Polyamorous	多边关系
@@ -203,72 +203,71 @@ Widowed	丧偶
 Divorced	离异
 
 
-Please answer the following questions thinking about your current or most recent romantic/relationship partner(s) or significant other(s).	在回答接下来的问题时，请参照时间上最近的情感关系。
+Please answer the following questions thinking about your current or most recent romantic/relationship partner(s) or significant other(s).	在回答接下来的问题时, 请参照时间上最近的情感关系. 
 Emotional intimacy is necessary in my relationship(s)	情感上的亲密在我们的关系中相当重要
 Sexual intimacy is necessary in my relationship(s)	性关系在我们的关系中相当重要
 Trust is necessary in my relationship(s)	我们的关系中信任是不可或缺的
 Consent is necessary in my relationship(s)	征得每一方同意在我们的关系中是不可或缺的
 I would enjoy seeing my partner(s) have meaningful emotional connections with others	我很乐意看到我的对象在精神上与别人闺蜜
-I would enjoy seeing my partner(s) have meaningful sexual connections with others	我很乐意见到我的对象和别人发生有意义的性关系(负责任有性同意的性关系，不是乱约)
-I would feel jealous if someone else pays sexual attention to my partner(s)	如果有人表现出对我对象性方面的倾慕，我会很嫉妒
-I would feel jealous if someone else pay emotional attention to my partner(s)	如果有人在情感上被我的对象吸引，我会很嫉妒
-I would be upset if my partner(s) were sexually interested in someone other than me	如果我的对象表现出了对我以外的人发生性关系的倾向，我会很失望
-I would be upset if my partner(s) were emotionally interested in someone other than me	如果我的对象情感上被我以外的人吸引，我会很失望
+I would enjoy seeing my partner(s) have meaningful sexual connections with others	我很乐意见到我的对象和别人发生有意义的性关系(负责任有性同意的性关系, 不是乱约)
+I would feel jealous if someone else pays sexual attention to my partner(s)	如果有人表现出对我对象性方面的倾慕, 我会很嫉妒
+I would feel jealous if someone else pay emotional attention to my partner(s)	如果有人在情感上被我的对象吸引, 我会很嫉妒
+I would be upset if my partner(s) were sexually interested in someone other than me	如果我的对象表现出了对我以外的人发生性关系的倾向, 我会很失望
+I would be upset if my partner(s) were emotionally interested in someone other than me	如果我的对象情感上被我以外的人吸引, 我会很失望
 I am satisfied with my relationship(s)	我对我现在的这段关系很满意
-Sexual fidelity (no sex with people outside of the agreed relationship(s)) is important to me	性忠诚对我来说非常重要 *性忠诚：在已经确定的关系之外，不与他人发生性关系
-Emotional fidelity (no strong emotional bonds outside of the agreed relationship(s)) is important to me	情感忠诚对我来说非常重要 *情感忠诚：在已经确定的关系之外，不与他人产生强烈的好感
-I have a strong, consistent sense of knowing who I am as a person.	作为一个人，我对于“我是谁”这个问题一直很明确
+Sexual fidelity (no sex with people outside of the agreed relationship(s)) is important to me	性忠诚对我来说非常重要 *性忠诚：在已经确定的关系之外, 不与他人发生性关系
+Emotional fidelity (no strong emotional bonds outside of the agreed relationship(s)) is important to me	情感忠诚对我来说非常重要 *情感忠诚：在已经确定的关系之外, 不与他人产生强烈的好感
+I have a strong, consistent sense of knowing who I am as a person.	作为一个人, 我对于“我是谁”这个问题一直很明确
 
 
-Please read each of the following statements and rate the extent to which it describes your feelings about romantic relationships. Please think about all your relationships (past and present) and respond in terms of how you generally feel in these relationships. If you have never been involved in a romantic relationship, answer in terms of how you think you would feel.	以下每句话都是对感情生活的描述。请回忆你所有的感情史（包括过去的和现在的），并且选择最符合你感受的特点。如果你没有感情史，就预测自己是否符合以下描述。
+Please read each of the following statements and rate the extent to which it describes your feelings about romantic relationships. Please think about all your relationships (past and present) and respond in terms of how you generally feel in these relationships. If you have never been involved in a romantic relationship, answer in terms of how you think you would feel.	以下每句话都是对感情生活的描述. 请回忆你所有的感情史（包括过去的和现在的）, 并且选择最符合你感受的特点. 如果你没有感情史, 就预测自己是否符合以下描述. 
 I find it relatively easy to get close to people.	我觉得与人亲近还算简单.
-I find it difficult to allow myself to depend on others.	我很难让自己依靠他人。
-I often worry that romantic partners don't really love me.	我经常担心我的伴侣（配偶）不是真的爱我。
-I find that others are reluctant to get as close as I would like.	我总有点热脸贴人冷屁股。
-I am comfortable depending on others.	依靠他人时我感到舒服。
-I don’t worry about people getting too close to me.	我不担心别人和我走得太近。
-I find that people are never there when you need them.	当我需要他人时，他们总是不在场。
-I am somewhat uncomfortable being close to others.	与别人走得太近让我感到有些不适。
-I often worry that romantic partners won’t want to stay with me.	我总担心伴侣（配偶）不想和我在一起。
-When I show my feelings for others, I'm afraid they will not feel the same about me.	当我向别人倾诉的时候，我担心他们不能与我共情。
-I often wonder whether romantic partners really care about me.	我时常怀疑伴侣（配偶）是否真的在意我。
-I am comfortable developing close relationships with others.	能够与他人发展密切交往的关系令我感到舒适。 
-I am uncomfortable when anyone gets too emotionally close to me.	当别人对我在情感上太亲密时，我会感到不适。
-I know that people will be there when I need them.	当我需要他人的帮助时，我知道他们就在那里。
-I want to get close to people, but I worry about being hurt.	我想接近别人，又怕感情上受到伤害。
-I find it difficult to trust others completely.	完全相信别人对我来说特别困难。
-Romantic partners often want me to be emotionally closer than I feel comfortable being.	伴侣（配偶）总是想让我与TA在情感上超过我舒适程度地亲密。
+I find it difficult to allow myself to depend on others.	我很难让自己依靠他人. 
+I often worry that romantic partners don't really love me.	我经常担心我的伴侣（配偶）不是真的爱我. 
+I find that others are reluctant to get as close as I would like.	我总有点热脸贴人冷屁股. 
+I am comfortable depending on others.	依靠他人时我感到舒服. 
+I don’t worry about people getting too close to me.	我不担心别人和我走得太近. 
+I find that people are never there when you need them.	当我需要他人时, 他们总是不在场. 
+I am somewhat uncomfortable being close to others.	与别人走得太近让我感到有些不适. 
+I often worry that romantic partners won’t want to stay with me.	我总担心伴侣（配偶）不想和我在一起. 
+When I show my feelings for others, I'm afraid they will not feel the same about me.	当我向别人倾诉的时候, 我担心他们不能与我共情. 
+I often wonder whether romantic partners really care about me.	我时常怀疑伴侣（配偶）是否真的在意我. 
+I am comfortable developing close relationships with others.	能够与他人发展密切交往的关系令我感到舒适.  
+I am uncomfortable when anyone gets too emotionally close to me.	当别人对我在情感上太亲密时, 我会感到不适. 
+I know that people will be there when I need them.	当我需要他人的帮助时, 我知道他们就在那里. 
+I want to get close to people, but I worry about being hurt.	我想接近别人, 又怕感情上受到伤害. 
+I find it difficult to trust others completely.	完全相信别人对我来说特别困难. 
+Romantic partners often want me to be emotionally closer than I feel comfortable being.	伴侣（配偶）总是想让我与TA在情感上超过我舒适程度地亲密. 
 I am not sure that I can always depend on people to be there when I need them.	我不确定当我需要帮助的时候总是会有人们伸出援手.
 
 
-If you are currently in a relationship, please answer the following questions. If you are in a relationship with more than one person, please answer the questions about one partner. If you are not currently in a relationship, please go to the next page.	如果你现在正处在一段浪漫关系之中，请回答以下问题。如果你所处的这段关系包含有不止一个人，请针对其中一人回答你的问题。如果你现在并没有在恋爱之中，请跳到下一页
-How well does your partner meet your needs?	你的对象有多能满足你的需求（从物质到情感都包括的广义上的需求）？
-In general, how satisfied are you with your relationship?	总的来说，你对自己现在的关系有多满意？
-How good is your relationship compared to most?	你觉得自己的关系与其他大部分人的比起来怎样？
-How often do you wish you hadn’t gotten into this relationship?	你希望自己从未开启这段关系的想法有多频繁？
-To what extent has your relationship met your original expectations?	你的关系与你最初的期待比起来如何？
+If you are currently in a relationship, please answer the following questions. If you are in a relationship with more than one person, please answer the questions about one partner. If you are not currently in a relationship, please go to the next page.	如果你现在正处在一段浪漫关系之中, 请回答以下问题. 如果你所处的这段关系包含有不止一个人, 请针对其中一人回答你的问题. 如果你现在并没有在恋爱之中, 请跳到下一页
+How well does your partner meet your needs?	你的对象有多能满足你的需求（从物质到情感都包括的广义上的需求）? 
+In general, how satisfied are you with your relationship?	总的来说, 你对自己现在的关系有多满意? 
+How good is your relationship compared to most?	你觉得自己的关系与其他大部分人的比起来怎样? 
+How often do you wish you hadn’t gotten into this relationship?	你希望自己从未开启这段关系的想法有多频繁? 
+To what extent has your relationship met your original expectations?	你的关系与你最初的期待比起来如何? 
 How much do you love your partner?	你有多爱你的对象?
-How many problems are there in your relationship?	你的关系之中有多少问题？
+How many problems are there in your relationship?	你的关系之中有多少问题? 
 
-
-Please rate your agreement with the following items.\n\n Furries who are older than me...	请对以下事物表达你的同意程度\n比我年长的兽迷...
-Please rate your agreement with the following items.\n\n Furries who are younger than me...	请对以下事物表达你的同意程度\n比我年轻的兽迷...
+Please rate your agreement with the following items.\n\nFurries who are older than me...	请对以下问题进行表态. \n比我【年长】的兽迷...
+Please rate your agreement with the following items.\n\nFurries who are younger than me...	请对以下问题进行表态. \n比我【年轻】的兽迷...
 tend to intimidate other furries.	容易去威胁/恐吓别的小动物
 are too cliquish.	更排外
-are too accepting or tolerant of questionable groups in the furry fandom.	对于圈内那些有问题行为的群体容忍度太高了。
+are too accepting or tolerant of questionable groups in the furry fandom.	对于圈内那些有问题行为的群体容忍度太高了. 
 are bigoted or unaccepting of others who are different.	很偏执, 或者不愿意接受不同的声音
 are clumsy or awkward with technology.	跟不上科技的发展
 behave inappropriately in fandom spaces.	在圈子里表现的不恰当
 are overly judgmental.	太喜欢批判/出警
 are difficult to interact with.	难以互动
 are making the fandom worse.	让兽圈不如从前了
-think they know more than they do about the furry fandom.	觉得自己对圈子懂得很多，其实则不然
+think they know more than they do about the furry fandom.	觉得自己对圈子懂得很多, 其实则不然
 have a sense of entitlement.	自视甚高
-are uncomfortable to be around.	呆在他们身边很让人不舒服。
+are uncomfortable to be around.	呆在他们身边很让人不舒服. 
 cause a lot of drama / conflict in the fandom.	导致了圈子中很多的瓜/冲突
 are too open toward sex in the fandom.	在圈子里对于性过于开放
 make fandom spaces more political.	让圈子中发表政治观点的行为变得更多了
-make the furry fandom more kinky / sexual.	让圈子变得更加少儿不宜。
+make the furry fandom more kinky / sexual.	让圈子变得更加少儿不宜. 
 
 
 I often feel like I can be myself in fandom spaces.	我觉得在圈子里我能够做我自己 
@@ -282,78 +281,78 @@ I often feel like I’m “putting on an act” for others in my day-to-day life
 I was frequently bullied when I was younger.	在小时候我经常被霸凌
 I am regularly bullied in my current day-to-day life.	我在日常生活中经常被霸凌
 I was rarely, if ever bullied when I was younger.	在我小时候我几乎没有被霸凌过
-I am rarely, if ever bullied in my current day-to-day life.	我在日常生活中基本没有被霸凌过。
-On occasions where I have been bullied, it was usually by non-furries.	当我被霸凌的时候，一般是圈子外的人对我进行霸凌
-On occasions where I have been bullied, it was usually by other furries.	当我被霸凌的时候，一般是圈内人对我进行霸凌
-On occasions where I have been bullied, it was usually physical (e.g., being hit).	当我被霸凌的时候，一般都是身体上的（例如：被打）
-On occasions where I have been bullied, it was usually verbal (e.g., teasing).	当我被霸凌的时候，一般都是口头上的（例如：恶意的玩笑）
-On occasions where I have been bullied, it was usually social (e.g., being left out, rumors).	当我被霸凌的时候，一般都是社交性质的（例如：被排挤，造谣）
-On occasions where I have been bullied, it was usually because of my interest in furry.	当我被霸凌的时候，一般都是因为我对兽圈的兴趣
-On occasions where I have been bullied, it was usually for reasons that were unrelated to my interest in furry.	当我被霸凌的时候，一般都是出于与我对兽圈的兴趣无关的原因
-Being a furry has caused me to experience more bullying than I would have experienced if I were not a furry.	作为一位furry，我受到了比如果我不是兽迷的情况下更多的霸凌。
+I am rarely, if ever bullied in my current day-to-day life.	我在日常生活中基本没有被霸凌过. 
+On occasions where I have been bullied, it was usually by non-furries.	当我被霸凌的时候, 一般是圈子外的人对我进行霸凌
+On occasions where I have been bullied, it was usually by other furries.	当我被霸凌的时候, 一般是圈内人对我进行霸凌
+On occasions where I have been bullied, it was usually physical (e.g., being hit).	当我被霸凌的时候, 一般都是身体上的（例如：被打）
+On occasions where I have been bullied, it was usually verbal (e.g., teasing).	当我被霸凌的时候, 一般都是口头上的（例如：恶意的玩笑）
+On occasions where I have been bullied, it was usually social (e.g., being left out, rumors).	当我被霸凌的时候, 一般都是社交性质的（例如：被排挤, 造谣）
+On occasions where I have been bullied, it was usually because of my interest in furry.	当我被霸凌的时候, 一般都是因为我对兽圈的兴趣
+On occasions where I have been bullied, it was usually for reasons that were unrelated to my interest in furry.	当我被霸凌的时候, 一般都是出于与我对兽圈的兴趣无关的原因
+Being a furry has caused me to experience more bullying than I would have experienced if I were not a furry.	作为一位furry, 我受到了比如果我不是兽迷的情况下更多的霸凌. 
 
-Please rate your agreement with the following items regarding your furry interests.	请对选择你对以下关于你对兽圈兴趣的事项的同意度。
+Please rate your agreement with the following items regarding your furry interests.	请对选择你对以下关于你对兽圈兴趣的事项的同意度. 
 I am committed to being a furry.	我坚定的认为自己是一位兽迷
 I am an expert on furries.	我是兽迷事项的专家
 I am one of the biggest furry fans.	我是骨灰级福瑞控
-I follow everything (e.g., media, news, events) related to furries.	我关注了各种（例如音视频，新闻，事件等）关于兽圈的信息
+I follow everything (e.g., media, news, events) related to furries.	我关注了各种（例如音视频, 新闻, 事件等）关于兽圈的信息
 I see myself as a member of the furry community.	我认为自己属于兽圈这个大家庭
 I own a lot of stuff related to furry.	我有很多与兽圈相关的东西(虚拟以及实体物品)
-One of the main reasons that I like being a furry is so I can profit from it.	我喜欢做一位兽迷的重要理由之一是我能从中获取经济利益。
+One of the main reasons that I like being a furry is so I can profit from it.	我喜欢做一位兽迷的重要理由之一是我能从中获取经济利益. 
 Being a furry gives me a sense of self-esteem.	做一位兽迷给了我自尊
-My actions as a furry make me feel like I’ve accomplished something.	我在兽圈做的事给了我一种成就感。
+My actions as a furry make me feel like I’ve accomplished something.	我在兽圈做的事给了我一种成就感. 
 I spend most of my time focusing on my furry interest while ignoring other fan interests.	我把大部分时间花在了兽圈这个兴趣圈子上面而不是其他圈子上
-I like being a furry because it provides me with a distraction from daily life for awhile.	我喜欢做一位兽迷，因为这给了我一个能够从日常生活中脱离出来的机会
-My furry interest exposes me to novel experiences.	我对于兽圈的兴趣带给我了难忘的经历。 
-I am drawn to the emotional drama involved in being a furry.	我喜欢吃兽圈里面的各种瓜。
+I like being a furry because it provides me with a distraction from daily life for awhile.	我喜欢做一位兽迷, 因为这给了我一个能够从日常生活中脱离出来的机会
+My furry interest exposes me to novel experiences.	我对于兽圈的兴趣带给我了难忘的经历.  
+I am drawn to the emotional drama involved in being a furry.	我喜欢吃兽圈里面的各种瓜. 
 One of the main reasons that I like furry content is for the artistic value.	我喜欢兽迷内容的一个重要原因是其中所包含的艺术价值
-Being a furry gives me a sense of “meaning” in my life.	做一位兽迷给了我生活的“意义”。
-Being a furry has helped me grow as a person.	作为一位兽迷帮助了我个人的成长。 
-Being a furry makes me feel distinct and unique compared to other people.	做一位兽迷让我觉得自己比其他人更加独特。
-I am more creative because I am a furry.	我因为是一位兽迷而变得更为有创造力。
+Being a furry gives me a sense of “meaning” in my life.	做一位兽迷给了我生活的“意义”. 
+Being a furry has helped me grow as a person.	作为一位兽迷帮助了我个人的成长.  
+Being a furry makes me feel distinct and unique compared to other people.	做一位兽迷让我觉得自己比其他人更加独特. 
+I am more creative because I am a furry.	我因为是一位兽迷而变得更为有创造力. 
 
 Please rate your agreement with the following items.	请对以下事物表达你的同意程度.
-I get the emotional support I need from the furry community.	我能从兽圈中获得所需的精神上的支持。
-I can talk about my problems within the furry community.	我能在兽圈中谈论我所遇到的问题。
-I can share my joys and sorrows within the furry community.	我能和圈子里的大家分享我的喜怒哀乐。
-I consider the furry community to be a source of comfort for me.	我认为兽圈是一个能够让我安心的存在。
+I get the emotional support I need from the furry community.	我能从兽圈中获得所需的精神上的支持. 
+I can talk about my problems within the furry community.	我能在兽圈中谈论我所遇到的问题. 
+I can share my joys and sorrows within the furry community.	我能和圈子里的大家分享我的喜怒哀乐. 
+I consider the furry community to be a source of comfort for me.	我认为兽圈是一个能够让我安心的存在. 
 
 
-For each statement below, please indicate your agreement or disagreement using the appropriate number from the following rating scale.	对于下面的说法，请为你的同意程度用以下计量表打分。
-Whenever I feel positive emotions, people can easily see exactly what I am feeling.	当我有正向情感的时候，人们能够轻松的看出来。
+For each statement below, please indicate your agreement or disagreement using the appropriate number from the following rating scale.	对于下面的说法, 请为你的同意程度用以下计量表打分. 
+Whenever I feel positive emotions, people can easily see exactly what I am feeling.	当我有正向情感的时候, 人们能够轻松的看出来. 
 I sometimes cry during sad movies.	看悲伤的电影有时会让我流泪
-People often do not know what I am feeling.	人们一般都不知道我真正的感觉。
-I laugh out loud when someone tells me a joke that I think is funny.	当别人跟我讲我认为好笑的笑话的时候我能够放声大笑。
+People often do not know what I am feeling.	人们一般都不知道我真正的感觉. 
+I laugh out loud when someone tells me a joke that I think is funny.	当别人跟我讲我认为好笑的笑话的时候我能够放声大笑. 
 It is difficult for me to hide my fear.	我很难去掩藏自己的恐惧.
-When I'm happy, my feelings show.	当我高兴的时候，我的情绪表现的很清楚。
-My body reacts very strongly to emotional situations.	我的身体会对于我的情绪有强烈的反应。
-I've learned it is better to suppress my anger than to show it.	我意识到我应该抑制自己的愤怒而不是表现出来。
-No matter how nervous or upset I am, I tend to keep a calm exterior.	不管我有多紧张或失落，我都倾向于去保持一个冷静的外表
+When I'm happy, my feelings show.	当我高兴的时候, 我的情绪表现的很清楚. 
+My body reacts very strongly to emotional situations.	我的身体会对于我的情绪有强烈的反应. 
+I've learned it is better to suppress my anger than to show it.	我意识到我应该抑制自己的愤怒而不是表现出来. 
+No matter how nervous or upset I am, I tend to keep a calm exterior.	不管我有多紧张或失落, 我都倾向于去保持一个冷静的外表
 I am an emotionally expressive person.	我是一个乐于表现自己情绪的人
-I have strong emotions.	我的情感一般都很强烈。
-I am sometimes unable to hide my feelings, even though I would like to.	有些时候哪怕我很想，我也不能够掩藏自己的情绪。
-Whenever I feel negative emotions, people can easily see exactly what I am feeling.	当我有负面情绪的时候，人们很轻易就能看出我的感情。
+I have strong emotions.	我的情感一般都很强烈. 
+I am sometimes unable to hide my feelings, even though I would like to.	有些时候哪怕我很想, 我也不能够掩藏自己的情绪. 
+Whenever I feel negative emotions, people can easily see exactly what I am feeling.	当我有负面情绪的时候, 人们很轻易就能看出我的感情. 
 There have been times when I have not been able to stop crying even though I tried to stop.	我曾有过哪怕很想也无法停止哭泣的经历
 I experience my emotions very strongly.	我感受到的情绪往往很激烈
 What I'm feeling is written all over my face	我的想法往往会写在脸上
 
 
-Below are statements that people sometimes make about themselves. Please indicate whether or not you believe each statement applies to you.	下面的陈述是有时人们对自己的归类。请指出你是否认为下面的描述符合自己
-Are you inclined to keep in the background on social occasions?	在社交活动时，你是否倾向于成为背景板（电灯泡）？
-Do you like to mix socially with people?	你是否喜欢和别人社交？
-Are you inclined to limit your acquaintances to a select few?	你会把自己的熟人圈子限制成很小的一个吗？
-Do you like to have many social engagements?	你是否愿意进行很多的社交？
-Would you rate yourself as a happy-go-lucky individual?	你觉得自己是个随遇而安有什么算什么的人吗？
-Can you usually let yourself go and have a good time at a party?	你能够在派对上面放开自己享受时光吗？
-Would you be very unhappy if you were prevented from making numerous social contacts?	如果自己不能够进行很多的社交你会很不开心吗？
-Do you usually take the initiative in making new friends?	你一般会主动结交朋友吗？
-Do you like to play pranks upon others?	你喜欢对他人恶作剧吗？
-Are you usually a "good mixer?"	你是个能很快“合群”的人吗？
-Do you often "have the time of your life" at social affairs?	在社交活动中，你经常“感觉人生达到了高潮”吗？
-Do you derive more satisfaction from social activities than from anything else?	你从社交活动中得到了别处无可比拟的快乐吗？
+Below are statements that people sometimes make about themselves. Please indicate whether or not you believe each statement applies to you.	下面的陈述是有时人们对自己的归类. 请指出你是否认为下面的描述符合自己
+Are you inclined to keep in the background on social occasions?	在社交活动时, 你是否倾向于成为背景板（电灯泡）? 
+Do you like to mix socially with people?	你是否喜欢和别人社交? 
+Are you inclined to limit your acquaintances to a select few?	你会把自己的熟人圈子限制成很小的一个吗? 
+Do you like to have many social engagements?	你是否愿意进行很多的社交? 
+Would you rate yourself as a happy-go-lucky individual?	你觉得自己是个随遇而安有什么算什么的人吗? 
+Can you usually let yourself go and have a good time at a party?	你能够在派对上面放开自己享受时光吗? 
+Would you be very unhappy if you were prevented from making numerous social contacts?	如果自己不能够进行很多的社交你会很不开心吗? 
+Do you usually take the initiative in making new friends?	你一般会主动结交朋友吗? 
+Do you like to play pranks upon others?	你喜欢对他人恶作剧吗? 
+Are you usually a "good mixer?"	你是个能很快“合群”的人吗? 
+Do you often "have the time of your life" at social affairs?	在社交活动中, 你经常“感觉人生达到了高潮”吗? 
+Do you derive more satisfaction from social activities than from anything else?	你从社交活动中得到了别处无可比拟的快乐吗? 
 
 
-Take a moment to think about the different groups of people in your life. Think about how important they are to you: If everything in your life were suddenly thrown into chaos, how important would it be that you hold onto these groups? Please rank their importance to you from 1 (Most Important to Me) to 10 (Least Important to Me) by clicking and dragging the options below.	花一点时间看看下面这些你生命中的出现的人们，思考一下他们对于你的重要性：如果你的生活突然陷入混乱，这些群体中哪些是你最想留住的？请通过拖拽为他们排序，依次为1（对你最重要）到10（对你最不重要）
+Take a moment to think about the different groups of people in your life. Think about how important they are to you: If everything in your life were suddenly thrown into chaos, how important would it be that you hold onto these groups? Please rank their importance to you from 1 (Most Important to Me) to 10 (Least Important to Me) by clicking and dragging the options below.	花一点时间看看下面这些你生命中的出现的人们, 思考一下他们对于你的重要性：如果你的生活突然陷入混乱, 这些群体中哪些是你最想留住的? 请通过拖拽为他们排序, 依次为1（对你最重要）到10（对你最不重要）
 Online furries	网上的兽迷朋友
 In-person furries	线下的兽迷朋友
 Other fan groups I'm a part of	你所在其他兴趣圈子中的朋友
@@ -371,71 +370,71 @@ The furry fandom should be a place where people can express themselves freely.	�
 The furry fandom should be a judgment-free space.	兽圈应该是一个不对他人任意评判的地方
 The furry fandom should be a politics-free space.	兽圈应该是一个不谈政治的地方
 The furry fandom should be a place for political expression and advocacy.	兽圈应该是一个可以让大家表达自己政治倾向的地方
-The furry fandom should be a place for having fun, nothing more.	兽圈就应该是为了让大家开心，仅此而已。
+The furry fandom should be a place for having fun, nothing more.	兽圈就应该是为了让大家开心, 仅此而已. 
 Free speech in the furry fandom is more important than the worries or concerns of some furries.	在兽圈中言论自由要比一些兽迷的担心和忧虑更为重要
-Having everyone feel safe in the furry fandom is more important than the right of furries to freely express their opinion.	让所有的兽迷都有安全感，要比大家能自由表达自己观点更为重要
+Having everyone feel safe in the furry fandom is more important than the right of furries to freely express their opinion.	让所有的兽迷都有安全感, 要比大家能自由表达自己观点更为重要
 Some opinions do not belong in the furry fandom.	有些观点就不属于兽圈
-The furry fandom should be accepting of all people, no matter what.	无论如何兽圈都应该能够对所有人敞开大门。
+The furry fandom should be accepting of all people, no matter what.	无论如何兽圈都应该能够对所有人敞开大门. 
 
 
-What is your political affiliation?	你的政治立场/派别是什么？
-Do you feel comfortable expressing your political identity in the fandom?	当你在兽圈中表达政治立场时，你是否感到自在？
+What is your political affiliation?	你的政治立场/派别是什么? 
+Do you feel comfortable expressing your political identity in the fandom?	当你在兽圈中表达政治立场时, 你是否感到自在? 
 
 
-Do you think the fandom has become more political, less political, or has stayed about as political as it has been in the past?	你认为在过去的一段时间中，兽圈中发表政治观点的行为更多、更少了，还是基本没变？
+Do you think the fandom has become more political, less political, or has stayed about as political as it has been in the past?	你认为在过去的一段时间中, 兽圈中发表政治观点的行为更多、更少了, 还是基本没变? 
 
 
-Has anything ever stopped you from attending a furry convention / meetup or from participating in an online furry forum / chatroom?	是否有任何因素阻止你参加兽展、小聚, 或融入论坛、聊天室？
+Has anything ever stopped you from attending a furry convention / meetup or from participating in an online furry forum / chatroom?	是否有任何因素阻止你参加兽展、小聚, 或融入论坛、聊天室? 
 
 
-I am emotionally connected to being a furry.	我情感上与我的兽迷身份密不可分。
-I strongly identify with being a furry.	我强烈的认同自己是一位兽迷。
-Being a furry is part of me.	furry的身份是我的一部分。
-I strongly identify with other furries in the furry community.	我对兽圈里的其他furry有强烈的认同感。
-I am glad to be a member of the furry community.	作为兽圈的一员我很高兴。
-I see myself as a member of the furry community.	我视自己为兽圈的一员。
+I am emotionally connected to being a furry.	我情感上与我的兽迷身份密不可分. 
+I strongly identify with being a furry.	我强烈的认同自己是一位兽迷. 
+Being a furry is part of me.	furry的身份是我的一部分. 
+I strongly identify with other furries in the furry community.	我对兽圈里的其他furry有强烈的认同感. 
+I am glad to be a member of the furry community.	作为兽圈的一员我很高兴. 
+I see myself as a member of the furry community.	我视自己为兽圈的一员. 
 
 
-How frequently would you say that you engage in each of the following activities as part of your furry interests?	您参与以下兽圈活动的频率是怎样的呢？
+How frequently would you say that you engage in each of the following activities as part of your furry interests?	您参与以下兽圈活动的频率是怎样的呢? 
 Attending conventions/large gatherings.	参加兽展/大型聚会
-Attending local meet-ups with other fans.	参加本地线下小聚。
-Reading furry-related forums.	阅读兽圈有关的论坛。
-Posting in furry-related forums.	在兽圈有关的论坛发帖。
-Consuming official furry-related media (e.g., films, books, art, games).	观赏官方的兽向内容。（如影片、图书、美术作品、游戏）
-Consuming fan-made media (e.g., fanfiction, fan films, art).	观赏同人兽向内容。（如同人小说、同人影片、美术作品等）
+Attending local meet-ups with other fans.	参加本地线下小聚. 
+Reading furry-related forums.	阅读兽圈有关的论坛. 
+Posting in furry-related forums.	在兽圈有关的论坛发帖. 
+Consuming official furry-related media (e.g., films, books, art, games).	观赏官方的兽向内容. （如影片、图书、美术作品、游戏）
+Consuming fan-made media (e.g., fanfiction, fan films, art).	观赏同人兽向内容. （如同人小说、同人影片、美术作品等）
 Consuming theorycrafting / review videos / articles.	观看制作教程、书评影评视频、阅读文章
 Collecting official merchandise.	收藏官方周边
 Collecting unofficial merchandise.	收藏同人周边
 Searching out furry-related news.	寻找兽圈相关的新闻
-Chatting online with other furries (e.g., IM programs, Skype).	在网上与其他furry聊天（如qq，贴吧，微信，b站）
-Chatting with other furries face-to-face.	与其他furry线下面基。
-Chatting with non-furries about furries.	和圈外人讨论兽圈。
+Chatting online with other furries (e.g., IM programs, Skype).	在网上与其他furry聊天（如qq, 贴吧, 微信, b站）
+Chatting with other furries face-to-face.	与其他furry线下面基. 
+Chatting with non-furries about furries.	和圈外人讨论兽圈. 
 
 
-Instructions: Please estimate the amount of leisure/free time you engage in activities related to your interest in furries (e.g., watching, reading, listening, talking with friends about furries, reading forums/news/social media related to furries, etc.). In other words, when thinking about your free time (outside of work and daily tasks) how much of that time is spent on things related to your furry interest?	填写指示：请估算一下你有多少休闲/业余时间花在了和兽圈有关的活动*上[*例如:看，读，听，和朋友谈论furry，阅读论坛、新闻、或者和兽圈有关的社交媒体等]。 换句话说，在你的空闲时间里（工作之余和完成每日任务后）你花了多少时间在和兽圈相关的兴趣活动上面？
+Instructions: Please estimate the amount of leisure/free time you engage in activities related to your interest in furries (e.g., watching, reading, listening, talking with friends about furries, reading forums/news/social media related to furries, etc.). In other words, when thinking about your free time (outside of work and daily tasks) how much of that time is spent on things related to your furry interest?	填写指示：请估算一下你有多少休闲/业余时间花在了和兽圈有关的活动*上[*例如:看, 读, 听, 和朋友谈论furry, 阅读论坛、新闻、或者和兽圈有关的社交媒体等].  换句话说, 在你的空闲时间里（工作之余和完成每日任务后）你花了多少时间在和兽圈相关的兴趣活动上面? 
 The percentage of my leisure/free time that I engage in furry-related activities is... (click and drag slider)\n	我所花在兽圈活动上面的时间占我空闲时间的百分比为......（点击并拖动滑块）\n
 % of Leisure Time on Furry Activities	空闲时间中兽圈活动的占比
 
 I often participate in furry-related activities in my leisure time.	我常常在有空闲时参加兽圈相关的活动
 
 
-Please rate the following items regarding YOUR FURRY ACTIVITIES.	请从您的兽圈活动体验出发对于以下事务进行同意程度打分。
-Furry activities are very interesting to me.	兽圈活动对我来说很有意思。
-Furry activities give me self-confidence.	兽圈活动给了我自信。
-Furry activities give me a sense of accomplishment.	兽圈活动让我有种成就感。
-I use many different skills and abilities in my furry activities.	我在兽圈活动中有利用到很多不同的技巧与能力。
-Furry activities increase my knowledge about things around me.	兽圈活动让我对身边的事物更加了解。
-Furry activities provide opportunities to try new things.	兽圈活动给予了我体验新事物的机会。
-Furry activities help me to learn about myself.	兽圈活动让我更加了解我自己。
-Furry activities help me to learn about other people.	兽圈活动让我更加了解其他人。
-Furry activities help me to relax.	兽圈活动能够帮助我放松。
-Furry activities help relieve stress.	兽圈活动能够帮助我释放压力。
-Furry activities contribute to my emotional well-being.	兽圈活动帮助我维持了良好的情绪状态。
-I engage in my furry activities simply because I like doing them.	我参加兽圈活动只是因为喜欢它们。
+Please rate the following items regarding YOUR FURRY ACTIVITIES.	请从您的兽圈活动体验出发对于以下事务进行同意程度打分. 
+Furry activities are very interesting to me.	兽圈活动对我来说很有意思. 
+Furry activities give me self-confidence.	兽圈活动给了我自信. 
+Furry activities give me a sense of accomplishment.	兽圈活动让我有种成就感. 
+I use many different skills and abilities in my furry activities.	我在兽圈活动中有利用到很多不同的技巧与能力. 
+Furry activities increase my knowledge about things around me.	兽圈活动让我对身边的事物更加了解. 
+Furry activities provide opportunities to try new things.	兽圈活动给予了我体验新事物的机会. 
+Furry activities help me to learn about myself.	兽圈活动让我更加了解我自己. 
+Furry activities help me to learn about other people.	兽圈活动让我更加了解其他人. 
+Furry activities help me to relax.	兽圈活动能够帮助我放松. 
+Furry activities help relieve stress.	兽圈活动能够帮助我释放压力. 
+Furry activities contribute to my emotional well-being.	兽圈活动帮助我维持了良好的情绪状态. 
+I engage in my furry activities simply because I like doing them.	我参加兽圈活动只是因为喜欢它们. 
 
 
-Please rate the following items regarding your furry activities.\n\n My furry activities enable me...	请从你的兽圈活动出发对以下事务进行同意度打分。\n\n 兽圈活动能够让我......
-To meet other people.	去遇见其他人。
+Please rate the following items regarding your furry activities.\n\nMy furry activities enable me...	请从你的兽圈活动出发对以下事务进行同意度打分. \n\n 兽圈活动能够让我......
+To meet other people.	去遇见其他人. 
 To be in touch with other people.	和人们保持联系 
 To communicate with people.	和别人交流
 To carry out teamwork.	去完成团队活动
@@ -444,86 +443,86 @@ To do something with no hurry.	不紧不慢的做一些事
 To forget about time.	忘记时间
 To enjoy myself without time pressure.	能不受时间约束地享受自己
 To feel I have enough time to do what I want.	让我觉得自己有足够的时间去做我想做的事情
-Not to be in a hurry when I want to do something I feel like.	当我去做自己想做的事情的时候不需要感到匆忙。
-To do what I want.	能做我想做的事情。
-To feel free to choose what I want to do.	能够自由选择我想做什么。
+Not to be in a hurry when I want to do something I feel like.	当我去做自己想做的事情的时候不需要感到匆忙. 
+To do what I want.	能做我想做的事情. 
+To feel free to choose what I want to do.	能够自由选择我想做什么. 
 To do whatever I want whenever I want.	能够在任何时间做任何事情
-To feel I own my time.	让我觉得能自由支配自己的时间。
+To feel I own my time.	让我觉得能自由支配自己的时间. 
 To decide by myself what I want to do.	自己决定我想要做什么
-To enjoy doing something because I like it, with no other reward.	去只是因为热爱，而不求回报地做一些事情。
-To do something just to have a good time with no other purpose.	只是为了享受时光，而没有其他目的地去做一些事情。
-To do something because I like it forgetting about its practical utility.	只是因为热爱，而不是为了实用价值地去做一些事情。
-To do something just for the pleasure of it.	只是为了从中能收获的愉悦感地去做一些事情。
+To enjoy doing something because I like it, with no other reward.	去只是因为热爱, 而不求回报地做一些事情. 
+To do something just to have a good time with no other purpose.	只是为了享受时光, 而没有其他目的地去做一些事情. 
+To do something because I like it forgetting about its practical utility.	只是因为热爱, 而不是为了实用价值地去做一些事情. 
+To do something just for the pleasure of it.	只是为了从中能收获的愉悦感地去做一些事情. 
 
 
 While engaging in activities related to furries...	当参与这些活动的时候……
-I feel just the right amount of challenge.	挑战性方面对我来说刚刚好。
-My thoughts/activities run fluidly and smoothly.	我的思绪和活动都很流畅。
-I don’t notice time passing.	我甚至都没有注意到时间的流逝。
+I feel just the right amount of challenge.	挑战性方面对我来说刚刚好. 
+My thoughts/activities run fluidly and smoothly.	我的思绪和活动都很流畅. 
+I don’t notice time passing.	我甚至都没有注意到时间的流逝. 
 I have no difficulty concentrating.	我很轻松就能集中注意力
-My mind is completely clear.	我的思维完全清晰。
-I am totally absorbed in what I am doing.	我完全沉浸在自己正在做的事情之中。
-The right thoughts/movements occur of their own accord.	一切想法/动作都水到渠成。
-I know what I have to do each step of the way.	我知道自己每一步必须做什么。
-I feel that I have everything under control.	我感觉一切都在我的掌握之中。
-I am completely lost in thought.	我完全沉浸在自己的思绪中。 
-I am so absorbed that I lose track of time and place.	我太投入，以至于忘记了自己所在的时空。
-I feel in total control of what I am doing.	我知道我正在做什么。
-I feel like I can control what I'm doing.	我能掌控我的所作所为。
-I have a feeling of total control.	我有一种“掌控全局的感觉”。
-I feel in total control of my body.	我能完全掌控我的身体。
+My mind is completely clear.	我的思维完全清晰. 
+I am totally absorbed in what I am doing.	我完全沉浸在自己正在做的事情之中. 
+The right thoughts/movements occur of their own accord.	一切想法/动作都水到渠成. 
+I know what I have to do each step of the way.	我知道自己每一步必须做什么. 
+I feel that I have everything under control.	我感觉一切都在我的掌握之中. 
+I am completely lost in thought.	我完全沉浸在自己的思绪中.  
+I am so absorbed that I lose track of time and place.	我太投入, 以至于忘记了自己所在的时空. 
+I feel in total control of what I am doing.	我知道我正在做什么. 
+I feel like I can control what I'm doing.	我能掌控我的所作所为. 
+I have a feeling of total control.	我有一种“掌控全局的感觉”. 
+I feel in total control of my body.	我能完全掌控我的身体. 
 
 
-I make full use of my talent when engaging in furry activities.	在兽圈活动中我能将自己的才华利用地淋漓尽致。
-I reach my potential in furry activities.	在兽圈活动中我能够进一步激发自己的潜能。
-Furry activities have enabled me to realize my potential.	兽圈活动让我意识到了自己的潜能。
-Furry activities provide me with a profound sense of satisfaction.	兽圈活动让我感受到了深度的满足感。
-My experiences with furry activities are deeply gratifying.	我在兽圈活动中的经历是深深地可喜的。
-Furry activities are intensely gratifying to me.	兽圈活动对于我来说是极其可喜的。
-Furry activities are enjoyable to me.	兽圈活动对于我来说是值得享受的。
-Furry activities are fun to me.	兽圈活动对我来说很有趣。
-I enjoy furry activities.	我很享受兽圈活动。
-Furry activities teach me new things.	兽圈活动教导了我新的知识。 
-Furry activities make me think and reflect.	兽圈活动能引发我的思考和反思。
-Furry activities are original, inventive and pose new ways of thinking.	兽圈活动是原创性的，创造性的，并且能引出新的思考方向。
-Furry activities arouse my curiosity and challenge me to explore.	兽圈活动激起了我的好奇心，挑战我去探索。
-I like encouraging a group of friends or acquaintances to engage with furry activities.	我喜欢去鼓励我的朋友和熟人参与兽圈活动。
-I enjoy myself more when we participate in a group and we form a community that participates in furry activities.	如果我能参与集体活动，并和大家形成一个进行兽圈活动的小团体的话，我会更能享受自己。
-Furry activities are like an adventure.	兽圈活动就像一场冒险。
-I like feeling close and belonging to a group of people who like the same furry interest.	我喜在兽圈中有相同爱好的小圈子中的归属感与亲近感。
-My favorite furry activities are complex and require more active participation.	我最喜欢的兽圈活动复杂且需要更积极地参与。
-I find a lot of my life is organized around my furry activities.	我发现我的很大一部分生活是围绕着兽圈活动安排的。
-Furry activities occupy a central role in my life.	兽圈活动是我生活的一个核心元素。 
-To change my preference from my furry interest to another would require major rethinking.	我要经过一番深思熟虑才能将我对Furry方面的爱好改变为其他爱好。
+I make full use of my talent when engaging in furry activities.	在兽圈活动中我能将自己的才华利用地淋漓尽致. 
+I reach my potential in furry activities.	在兽圈活动中我能够进一步激发自己的潜能. 
+Furry activities have enabled me to realize my potential.	兽圈活动让我意识到了自己的潜能. 
+Furry activities provide me with a profound sense of satisfaction.	兽圈活动让我感受到了深度的满足感. 
+My experiences with furry activities are deeply gratifying.	我在兽圈活动中的经历是深深地可喜的. 
+Furry activities are intensely gratifying to me.	兽圈活动对于我来说是极其可喜的. 
+Furry activities are enjoyable to me.	兽圈活动对于我来说是值得享受的. 
+Furry activities are fun to me.	兽圈活动对我来说很有趣. 
+I enjoy furry activities.	我很享受兽圈活动. 
+Furry activities teach me new things.	兽圈活动教导了我新的知识.  
+Furry activities make me think and reflect.	兽圈活动能引发我的思考和反思. 
+Furry activities are original, inventive and pose new ways of thinking.	兽圈活动是原创性的, 创造性的, 并且能引出新的思考方向. 
+Furry activities arouse my curiosity and challenge me to explore.	兽圈活动激起了我的好奇心, 挑战我去探索. 
+I like encouraging a group of friends or acquaintances to engage with furry activities.	我喜欢去鼓励我的朋友和熟人参与兽圈活动. 
+I enjoy myself more when we participate in a group and we form a community that participates in furry activities.	如果我能参与集体活动, 并和大家形成一个进行兽圈活动的小团体的话, 我会更能享受自己. 
+Furry activities are like an adventure.	兽圈活动就像一场冒险. 
+I like feeling close and belonging to a group of people who like the same furry interest.	我喜在兽圈中有相同爱好的小圈子中的归属感与亲近感. 
+My favorite furry activities are complex and require more active participation.	我最喜欢的兽圈活动复杂且需要更积极地参与. 
+I find a lot of my life is organized around my furry activities.	我发现我的很大一部分生活是围绕着兽圈活动安排的. 
+Furry activities occupy a central role in my life.	兽圈活动是我生活的一个核心元素.  
+To change my preference from my furry interest to another would require major rethinking.	我要经过一番深思熟虑才能将我对Furry方面的爱好改变为其他爱好. 
 
 
-In this section, we wish to examine how furries understand and define polyamory and related concepts, regardless of whether they participate in poly relationships or not.	在这个部分，我们想要看看兽迷们如何理解与描述以下的概念，不管你是否有参与到多边关系之中。
+In this section, we wish to examine how furries understand and define polyamory and related concepts, regardless of whether they participate in poly relationships or not.	在这个部分, 我们想要看看兽迷们如何理解与描述以下的概念, 不管你是否有参与到多边关系之中. 
 How would you define 1) polyamory, 2) poly open relationships, and 3) non-poly open relationships?	你如何定义1）多边关系2）开放式多边关系3）开放式非多边关系
 
 
-Do you see polyamory as a choice, natural, biologically driven, and/or something else? In other words, why do you think people are polyamorous?	你觉得多边关系是一种“选择”、一种“天性”，还是受一些生物因素驱动，亦或是其他的东西？换句话说，你觉得为什么人们会有多边关系？
+Do you see polyamory as a choice, natural, biologically driven, and/or something else? In other words, why do you think people are polyamorous?	你觉得多边关系是一种“选择”、一种“天性”, 还是受一些生物因素驱动, 亦或是其他的东西? 换句话说, 你觉得为什么人们会有多边关系? 
 
 
-How do you feel about 1) monogamous and 2) polyamorous relationships (e.g., what are your impressions/assumptions about the people involved?)	你对于以下关系有何看法1）一对一关系2）多边关系（比如：你对于参与这两种关系的人群分别有怎样的看法？）
+How do you feel about 1) monogamous and 2) polyamorous relationships (e.g., what are your impressions/assumptions about the people involved?)	你对于以下关系有何看法1）一对一关系2）多边关系（比如：你对于参与这两种关系的人群分别有怎样的看法? ）
 
 
-This last section is about furries who identify as polyamorous. We wish to understand more about these romantic relationships. If you identify as polyamorous, please complete the following questions. If you do not, please skip to the next page.	最后的这一个部分是针对多边关系的furry们的， 我们希望能够更多地了解这种浪漫关系。如果你是多边关系者，请完成以下问卷，如果你不是，请跳到下一页
-Do you use any of these terms to describe or classify your relationship(s)? Please check all that apply.	你是否会用以下词语来描述你们的关系？请选择所有你使用的词语
+This last section is about furries who identify as polyamorous. We wish to understand more about these romantic relationships. If you identify as polyamorous, please complete the following questions. If you do not, please skip to the next page.	最后的这一个部分是针对多边关系的furry们的,  我们希望能够更多地了解这种浪漫关系. 如果你是多边关系者, 请完成以下问卷, 如果你不是, 请跳到下一页
+Do you use any of these terms to describe or classify your relationship(s)? Please check all that apply.	你是否会用以下词语来描述你们的关系? 请选择所有你使用的词语
 Primary/Secondary	主要的/次要的
 Non-hierarchal	不分等级的
 Poly-family	多元成家
 Please let us know other terms you use to describe your relationship(s)	请告诉我们其他你用来描述你们关系的词语
 
-How did you become involved in (a) polyamorous relationship(s)?	你是如何开始一段多边关系的？
+How did you become involved in (a) polyamorous relationship(s)?	你是如何开始一段多边关系的? 
 
-We are trying to understand nuances in furries’ adult romantic relationship(s) structures. Please describe your current relationship(s) status(es) (e.g., Person A/Person B/Person C, or feel free to assign pseudonyms). What are the genders, race, age, and sexual orientations of the members? Can you give us any insights into the various roles people play in the arrangements or describe any personal dynamics (e.g., closeness, duration of relationship, level of commitment)? Are there furries and non-furries involved? Are these relationships sexual/not? Are some relationships more enduring than others? Is there anything else that can help us understand? How does your role or personality change with different partners (if at all)?	我们想要了解furry成人关系结构之间的细微差别。请描述一下你目前的关系状况例如（人物A/人物B/人物C，这里完全可以使用化名。）其中成员们的性别，种族（指人种），年龄以及性取向分别是什么？ 你能否向我们透露一下大家在这个关系中都扮演了什么样的角色或者描述其中几条边的个人关系（例如：亲密度，关系时长，相互承诺的等级）？在这个关系中是否包含了furry与非furry？你们的关系中存在性吗？有些关系比其他关系更长久牢固吗？你是否有些别的东西能够帮助我们更进一步了解这种关系？你的角色与性格在和不同成员的互动中会有怎样的变化（如果有变化的话）？
+We are trying to understand nuances in furries’ adult romantic relationship(s) structures. Please describe your current relationship(s) status(es) (e.g., Person A/Person B/Person C, or feel free to assign pseudonyms). What are the genders, race, age, and sexual orientations of the members? Can you give us any insights into the various roles people play in the arrangements or describe any personal dynamics (e.g., closeness, duration of relationship, level of commitment)? Are there furries and non-furries involved? Are these relationships sexual/not? Are some relationships more enduring than others? Is there anything else that can help us understand? How does your role or personality change with different partners (if at all)?	我们想要了解furry成人关系结构之间的细微差别. 请描述一下你目前的关系状况例如（人物A/人物B/人物C, 这里完全可以使用化名. ）其中成员们的性别, 种族（指人种）, 年龄以及性取向分别是什么?  你能否向我们透露一下大家在这个关系中都扮演了什么样的角色或者描述其中几条边的个人关系（例如：亲密度, 关系时长, 相互承诺的等级）? 在这个关系中是否包含了furry与非furry? 你们的关系中存在性吗? 有些关系比其他关系更长久牢固吗? 你是否有些别的东西能够帮助我们更进一步了解这种关系? 你的角色与性格在和不同成员的互动中会有怎样的变化（如果有变化的话）? 
 
-Please describe how you and others in your relationship(s) negotiated the rules and boundaries of your relationship(s)? If you needed to make changes, how did they come about?	请描述一下你和关系中的其他人是如何协商你们关系的“规则”和“界限”的？如果你需要做出改变，将如何实现？
+Please describe how you and others in your relationship(s) negotiated the rules and boundaries of your relationship(s)? If you needed to make changes, how did they come about?	请描述一下你和关系中的其他人是如何协商你们关系的“规则”和“界限”的? 如果你需要做出改变, 将如何实现? 
 
-Many individuals and families seek support from professionals (i.e., counsellors, social workers). Have you ever sought individual or family counseling since identifying as polyamorous? If yes, what factors led up to you seeking that support? Please explain your experience. What factors contributed to positive/negative experiences? Did being furry have any impact?	请描述一下你和关系中的其他人是如何协商你们关系的“规则”和“界限”的？如果你需要做出改变，将如何实现？许多个人和家庭会寻求专业人士(比如心理咨询师、社会工作者)的支持。自确定自己是多边关系者后，你是否曾寻求过个人或家庭咨询？如果是，是什么因素驱使你去寻求支持？请描述一下你的经历。什么因素促成了积极/消极的体验？成为furry对于这段经历有什么影响吗？
+Many individuals and families seek support from professionals (i.e., counsellors, social workers). Have you ever sought individual or family counseling since identifying as polyamorous? If yes, what factors led up to you seeking that support? Please explain your experience. What factors contributed to positive/negative experiences? Did being furry have any impact?	请描述一下你和关系中的其他人是如何协商你们关系的“规则”和“界限”的? 如果你需要做出改变, 将如何实现? 许多个人和家庭会寻求专业人士(比如心理咨询师、社会工作者)的支持. 自确定自己是多边关系者后, 你是否曾寻求过个人或家庭咨询? 如果是, 是什么因素驱使你去寻求支持? 请描述一下你的经历. 什么因素促成了积极/消极的体验? 成为furry对于这段经历有什么影响吗? 
 
 
-Do you have any other thoughts, comments, criticisms, or suggestions about this study that you'd like to let the researchers know about?	对于此次调查，你是否还有其他的想法、评价、意见或建议想要告诉研究员们？
+Do you have any other thoughts, comments, criticisms, or suggestions about this study that you'd like to let the researchers know about?	对于此次调查, 你是否还有其他的想法、评价、意见或建议想要告诉研究员们? 
 
 
 General Debriefing	总结
@@ -533,13 +532,13 @@ General Debriefing	总结
 
 
 
-The survey you just saw was created by a team of psychologists studying a variety of different topics. These topics include:	此次调查由一群心理学家发起，目的是研究不同的话题，包括：
-a) The role that fandoms play in forging and maintaining romantic relationships, including polyamorous relationships.	兽圈在感情关系的形成和维持中的作用，包括多边关系
-b) Conflict and intergenerational differences in fandom spaces.	兽圈中的冲突与代沟
-c) Non-furry identities and their place in furry spaces.	Furry环境下非兽迷的身份以及它们占有的地位
-d) Fandoms as leisure activities.	Furry活动与休闲时间
-e) Different types of fans and different functions of fandoms for those fans.	兽圈中不同种类的兽迷，以及兽圈对这些兽迷的不同功能
-f) The functions of fursonas.	兽设的功能
+The survey you just saw was created by a team of psychologists studying a variety of different topics. These topics include:	此次调查由一群心理学家发起, 目的是研究不同的话题, 包括：
+a) The role that fandoms play in forging and maintaining romantic relationships, including polyamorous relationships.	a) 兽圈在感情关系的形成和维持中的作用, 包括多边关系
+b) Conflict and intergenerational differences in fandom spaces.	b) 兽圈中的冲突与代沟
+c) Non-furry identities and their place in furry spaces.	c) Furry环境下非兽迷的身份以及它们占有的地位
+d) Fandoms as leisure activities.	d) Furry活动与休闲时间
+e) Different types of fans and different functions of fandoms for those fans.	e) 兽圈中不同种类的兽迷, 以及兽圈对这些兽迷的不同功能
+f) The functions of fursonas.	f) 兽设的功能
 
 
 
@@ -548,4 +547,5 @@ f) The functions of fursonas.	兽设的功能
 
 
 
-Thank you again for your participation in this research! Also, be sure to check furscience.com for updates on results from our studies.	再次感谢你愿意参与我们的研究！同时也不要忘了去furscience.com网站，关注我们的最新进展
+Thank you again for your participation in this research! 	再次感谢你愿意参与我们的研究！
+Also, be sure to check furscience.com for updates on results from our studies. 	同时也不要忘了去furscience.com网站, 关注我们的最新进展. 
