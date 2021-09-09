@@ -194,7 +194,8 @@ I don't know	我不知道
 Something else (please specify)	其他（请注明）
 
 
-People can identify with many different labels (e.g., daughter, friend, student, American, gay, transgender, Indigenous, etc.) Do any of your identities / labels ever affect your identity as a furry or experience in furry spaces?	人们可以用很多不同的标签来表明自己的身份, 比如“女儿”、“朋友”、“学生”、“美国人”、“同性恋”、“跨性别者”、“土著”等. 是否有一些你自己的标签影响到了你作为furry的身份或者在兽圈中的经历? 
+version	2021090903	修订中文语境标点
+People can identify with many different labels (e.g., daughter, friend, student, American, gay, transgender, Indigenous, etc.) Do any of your identities / labels ever affect your identity as a furry or experience in furry spaces?	人们可以用很多不同的标签来表明自己的身份, 比如“女儿”“朋友”“学生”“美国人”“同性恋”“跨性别者”“土著”等. 是否有一些你自己的标签影响到了你作为furry的身份或者在兽圈中的经历? 
 
 
 What is your current relationship status? (Select all that apply)	你的婚恋状况如何? 
